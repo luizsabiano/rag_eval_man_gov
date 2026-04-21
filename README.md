@@ -41,7 +41,7 @@ além das métricas de fidelidade e relevância das respostas. Os resultados dos
 que o Gemma 2 9B liderou em precisão e fidelidade nas bases públicas, superando modelos de maior escala
 paramétrica. Em contrapartida, a família Sabiá 3 destacou-se em relevância e recall, evidenciando 
 superioridade narrativa e argumentativa. No domínio governamental, a estratégia de fragmentação de 
-500 caracteres consolidou-se como a mais eficaz entre todas as métricas e arquiteturas avaliadas. 
+500 tokens consolidou-se como a mais eficaz entre todas as métricas e arquiteturas avaliadas. 
 As técnicas de transformação de consulta apresentaram desempenho inferior à abordagem padrão quando 
 aplicadas em modo zero-shot. Na avaliação de fidelidade e relevância da resposta, os modelos da família 
 Sabia 3, desmonstraram grande superioridade. 
