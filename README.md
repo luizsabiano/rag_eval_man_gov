@@ -54,6 +54,10 @@ Sabia 3, desmonstraram grande superioridade.
 Visando reduzir a complexidade, o projeto foi estruturado 4 partes, acessíveis pelos links abaixo. 
 
 
+### Conjunto de dados de governamental
+
+[Gerador do dataset de manuais normativos governamentais](https://github.com/luizsabiano/manuals_question_generator) 
+
 ### Base de dados pública (Pirá, FairytaleQA PT-BR e SQuaD PT-BR)
 
 [Avaliação dos modelos de recuperação e  geração](https://github.com/luizsabiano/rag_eval_ptbr) 
